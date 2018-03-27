@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hernandez Greenhouse</title>
+  <link href="greenhouse.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+<h1>Hernandez Greenhouse</h1>
+  <ul class="navigation">
+    <li>Plant/Inventory List</li>
+    <li>Tips on how to take care of your plant</li>
+    <li>Contact Us</li>
+  </ul>
+<h2>Plant/Inventory List</h2>
+  <p>This is a table that lists the plants that we have in inventory and that are available to be sold and they're respective prices. In addition, to indicating the plants that we have we also have recommended some care tips for your plant.</p>
+
+<img src="http://cdn.newsday.com/polopoly_fs/1.6240493.1381519162!/httpImage/image.JPG_gen/derivatives/display_600/image.JPG" alt="banana tree"/>
+
+  <table>
+    <thead>
+    <tr>
+
+      <th>Plant</th>
+      <th>Number of Plants Available</th>
+      <th>Price per plant</th>
+      <th>Conditions Necessary for growth</th>
+    </tr>
+    </thead>
+    <tr>
+      <td>Basil</td>
+      <td>3</td>
+      <td>$5</td>
+      <td>Direct sunlight</td>
+    </tr>
+    <tr>
+  <td>Bannana Plant</td>
+  <td>5</td>
+  <td>$10</td>
+  <td>Direct sunlight, and a lot of space</td>
+</tr>
+<tr>
+  <td>Roe</td>
+  <td>3</td>
+  <td>$7</td>
+  <td>Dry and sunny</td>
+</tr>
+<tr>
+  <td>Papalos</td>
+  <td>4</td>
+  <td>$4</td>
+  <td>Direct Sunlight</td>
+</tr>
+<tr>
+  <td>Apazote</td>
+  <td>2</td>
+  <td>$6</td>
+  <td>Direct sunlight</td>
+</tr>
+<tr>
+  <td>Aloe Vera</td>
+  <td>2</td>
+  <td>$8</td>
+  <td>Partial sunlight</td>
+    </tr>
+    <tfoot>
+      <td>Total quantity of plants in stock</td>
+      <td>19</td>
+      <td></td>
+      <td></td>
+    </tfoot>
+  </table>
+
+
+</body>
+</html>
