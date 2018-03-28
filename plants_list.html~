@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hernandez Greenhouse Website</title>
+  <title>Hernandez Greenhouse</title>
   <link href="greenhouse.css" type="text/css" rel="stylesheet">
 </head>
 <body>
@@ -17,94 +17,42 @@
   <table>
     <thead>
     <tr>
+
       <th>Plant</th>
       <th>Number of Plants Available</th>
       <th>Price per plant</th>
-      <th>Order</th>
     </tr>
     </thead>
     <tr>
       <td>Basil</td>
       <td>3</td>
       <td>$5</td>
-      <td>
-      </script>
-        <form>
-          Qty:<input type="number" name="quantity" min="1" max="5">
-        </form>
-          </script>
-            <input type="button" value="Add to Cart" id="MyButton" >
-      </script>
-      </td>
     </tr>
     <tr>
   <td>Bannana Plant</td>
   <td>5</td>
   <td>$10</td>
-  <td>
-  </script>
-    <form>
-      Qty:<input type="number" name="quantity" min="1" max="5">
-    </form>
-  </script>
-    <input type="button" value="Add to Cart" id="MyButton" >
-  </script>
-  </td>
 </tr>
 <tr>
   <td>Roe</td>
   <td>3</td>
   <td>$7</td>
-  <td>
-  </script>
-    <form>
-      Qty:<input type="number" name="quantity" min="1" max="5">
-    </form>
-  </script>
-    <input type="button" value="Add to Cart" id="MyButton" >
-  </script>
-  </td>
 </tr>
 <tr>
   <td>Papalos</td>
   <td>4</td>
   <td>$4</td>
-  <td>
-  </script>
-    <form>
-      Qty:<input type="number" name="quantity" min="1" max="5">
-    </form>
-  </script>
-    <input type="button" value="Add to Cart" id="MyButton" >
-  </td>
 </tr>
 <tr>
   <td>Apazote</td>
   <td>2</td>
   <td>$6</td>
-  <td>
-  </script>
-    <form>
-      Qty:<input type="number" name="quantity" min="1" max="5">
-    </form>
-  </script>
-    <input type="button" value="Add to Cart" id="MyButton" >
-  </script>
-  </td>
 </tr>
 <tr>
   <td>Aloe Vera</td>
   <td>2</td>
   <td>$8</td>
-  <td>
-  </script>
-    <form>
-      Qty:<input type="number" name="quantity" min="1" max="5">
-    </form>
-  </script>
-    <input type="button" value="Add to Cart" id="MyButton" >
-  </td>
-</tr>
+    </tr>
     <tfoot>
       <td>Total quantity of plants in stock</td>
       <td>19</td>
@@ -118,4 +66,3 @@
 </footer>
 </body>
 </html>
-
