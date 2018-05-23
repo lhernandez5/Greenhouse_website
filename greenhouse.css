@@ -1,0 +1,151 @@
+body {
+  background: rgb(153, 184, 93);
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  text-align: center;
+  font-size: 18px;
+}
+.navigation {
+  box-sizing: border-box;
+  background-color: rgb(191, 185, 122);
+  position: center;
+  top: 0;
+  width: 100%;
+}
+h1 {
+
+   font-size: 37px;
+   color: rgb(13, 82, 17);
+   font-family: verdana;
+}
+h2 {
+   font-size: 20px;
+   color: black;
+   font-family: verdana;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  color: #FFF;
+  display: inline-block;
+  font-family: verdana;
+  font-size: 10px;
+  font-weight: 200;
+  letter-spacing: 2px;
+  margin: 0;
+  padding: 20px 18px 10px 18px;
+  text-transform: uppercase;
+  text-color: white;
+}
+table {
+  height: 30%;
+  left: 10%;
+  margin: 10px auto;
+  overflow-y: scroll;
+  width: 60%;
+}
+thead th {
+  background: rgb(191, 185, 122);
+  /*color: #FFF;*/
+  font-family: verdana;
+  font-size: 14px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  position: center;
+}
+tr {
+  background: #f3f4f8;
+  border-bottom: 1px solid #FFF;
+  margin-bottom: 5px;
+}
+th td {
+  font-family: verdana;
+  font-weight: 400;
+  padding: 20px;
+  text-align: left;
+  width: 33.3333%;
+  font-size: 16px;
+}
+#platano{
+  border: 5px solid black;
+}
+.body{
+  background-image:linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(/Users/luzhernandez/Pictures/Wallpapers/cir_animacion_1.jpg);
+  height: 150vh;
+  background-size: cover;
+  background-position: center;
+}
+.login-page{
+  width: 360px;
+  padding:0;
+  margin:auto;
+}
+.form{
+ position: relative;
+ z-index: 1;
+ max-width: 500px;
+ padding: 45px;
+ margin: o auto 100px;
+ text-align: center;
+}
+.form input{
+  outline: 1;
+  width: 100%;
+  border:0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.form button{
+  font-family: sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: olivedrab;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: bold;
+  color:white;
+}
+.form .p{
+  margin: 0 0 15px; 
+  color: aliceblue;
+  font-size: 14px;
+  font-weight: bold;
+}
+#h2{
+  text-align: center;
+  color: white;
+  padding: 30px;
+  width: 100%;
+  background: olive;
+  opacity: .9;
+  font-size: 35px;
+  font-family: 'Lucida Sans', sans-serif;
+  margin: 0 0 15px;
+  box-sizing: border-box;
+}
+#comments{
+  width: 500px;
+  height: 300px;
+  width: 100%;
+  border:0;
+  margin: 0 0 15px;
+  padding: 15px;
+  font-size: 14px;  
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+#map{
+  width: 800px;
+  height: 500px;
+}
